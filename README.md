@@ -10,3 +10,4 @@ My first repository
 ###### Asta e cu h6 diezuri adica cel mai mic
 # Hello-World
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
