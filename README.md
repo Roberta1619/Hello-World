@@ -20,3 +20,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] Cumparaturi
 - [x] Sala
 - [ ] Spalat
+ 
